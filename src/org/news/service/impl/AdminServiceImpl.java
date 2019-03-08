@@ -4,7 +4,7 @@ import org.news.service.AdminService;
 
 public class AdminServiceImpl implements AdminService {
     @Override
-    public void admin() {
+    public void tgs() {
         String tgs="田贵燊";
     }
 }
