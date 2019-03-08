@@ -7,6 +7,6 @@ package org.news.service; /*
  */
 
 public interface AdminService {
-void xm2();
+void admin();
 
 }
